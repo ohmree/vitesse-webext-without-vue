@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "antfu.iconify",
+    "samverschueren.linter-xo",
+    "voorjaar.windicss-intellisense",
+    "csstools.postcss"
+  ]
+}
